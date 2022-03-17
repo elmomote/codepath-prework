@@ -59,7 +59,7 @@ As I have heard in the past, "best is never permanent". Meaning there will alway
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://www.dropbox.com/s/4bltmoj2c13yj8e/InterviewVideo.mp4?dl=0
 
 
 ## License
