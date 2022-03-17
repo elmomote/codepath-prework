@@ -6,7 +6,8 @@ Submitted by: Alan Gonzalez
 
 Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/wax-shadow-rosehip
+https://wax-shadow-rosehip.glitch.me
 
 ## Required Functionality
 
